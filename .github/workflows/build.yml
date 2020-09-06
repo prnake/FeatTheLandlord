@@ -4,7 +4,7 @@ on:
     tags:
       - v*
 env:
-  targetName: snake
+  targetName: FTL
 jobs:
   publish:
     name: Upload Release Asset

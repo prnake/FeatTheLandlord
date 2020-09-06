@@ -63,3 +63,5 @@ REPC_REPLICA += \
 RESOURCES += \
     image.qrc
 
+DESTDIR = $$absolute_path($${_PRO_FILE_PWD_}/bin/)
+
