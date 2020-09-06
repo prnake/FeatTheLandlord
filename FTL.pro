@@ -1,4 +1,4 @@
-QT       += core gui remoteobjects multimedia datavisualization
+QT       += core gui remoteobjects multimedia
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
